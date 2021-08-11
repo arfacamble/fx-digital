@@ -3,14 +3,13 @@
   "jobTitle": "Junior Front-End Developer",
   "companyName": "FX Digital",
   "navTabs": {
-        "cover": { "id": "cover", "title": "Cover", "iconName": "feed", "current": true},
-        "values": { "id": "values", "title": "Values", "iconName": "question_answer", "current": false},
-        "experience": { "id": "experience", "title": "Experience", "iconName": "work_outline", "current": false},
-        "projects": { "id": "projects", "title": "Projects", "iconName": "precision_manufacturing", "current": false},
-        "competencies": { "id": "competencies", "title": "Competencies", "iconName": "code", "current": false},
-        "education": { "id": "education", "title": "Education", "iconName": "history_edu", "current": false},
-        "hobbies": { "id": "hobbies", "title": "Hobbies", "iconName": "fingerprint", "current": false},
-        "bonus": { "id": "bonus", "title": "Bonus", "iconName": "all_inclusive", "current": false}
+    "cover": { "id": "cover", "title": "Cover", "iconName": "feed", "current": true},
+    "values": { "id": "values", "title": "Values", "iconName": "question_answer", "current": false},
+    "experience": { "id": "experience", "title": "Experience", "iconName": "work_outline", "current": false},
+    "projects": { "id": "projects", "title": "Projects", "iconName": "precision_manufacturing", "current": false},
+    "competencies": { "id": "competencies", "title": "Competencies", "iconName": "code", "current": false},
+    "education": { "id": "education", "title": "Education", "iconName": "history_edu", "current": false},
+    "hobbies": { "id": "hobbies", "title": "Hobbies", "iconName": "fingerprint", "current": false}
   },
   "cover": [
     "Over several years I demonstrated my ability to thrive under pressure and nurture working relationships as a teacher. My success as a teacher was dependent on reliability and consistency in both meeting and setting expectations, teamwork and clear communication with students and colleagues, and excellent time management",
